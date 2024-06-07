@@ -1,6 +1,2 @@
-# dl
-# dl
-# dl
-# dl
-# dl
-# dl
+# deep learning
+
